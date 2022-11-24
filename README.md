@@ -1,5 +1,2 @@
 # devnet
-For Cisco DevNet
-
-#change a little
-Just try.
+pull this file from github, then, add index.html locally.
